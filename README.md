@@ -22,6 +22,7 @@ The main gameplay module. It contains gameplay logic related to specific game me
 
 **NOTE**:  
 The GridSystem is currently unfinished and still contains some bugs.
+
 ---
 ### RU:
 Данный репозиторией является частью кодовой базы проекта Solar Haven, который сейчас разрабатывается.
